@@ -1,2 +1,7 @@
 .git
 node_modules
+xampp/
+apache/
+mysql/
+tmp/
+logs/
