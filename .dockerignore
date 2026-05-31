@@ -5,3 +5,7 @@ apache/
 mysql/
 tmp/
 logs/
+.htaccess
+apache2.conf
+httpd.conf
+php/
